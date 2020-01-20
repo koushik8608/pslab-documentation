@@ -28,5 +28,7 @@ Experiment: Measuring Voltage (check your battery)
 Experiment: Measuring Resistance
 --------------------------------
 
-Experiment: Measuring Capacitance
+Experiment: Measuring Capacitanck
+
+koushik
 ---------------------------------
